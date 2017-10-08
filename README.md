@@ -3,13 +3,16 @@ Created by Kyle Lim
 
 Simple real time chat application using web sockets.
 
+Try it out for real on Heroku!
+https://kyle-socket-chat.herokuapp.com/
+
 ### Dependencies
 
 Socket.io
 
 Node.js
 
-### How to run
+### How to run locally
 
 Run the server
 ```
